@@ -1,0 +1,55 @@
+{
+  "target": "main",
+  "branch": "main",
+  "pr": null,
+  "sha": "3f9f5b405c59741b2802a3c9aed2140a2d71412f",
+  "short_sha": "3f9f5b4",
+  "version": "main",
+  "generated_at": "2026-11-14T19:08:34.668000+00:00",
+  "screenshots": [
+    {
+      "file": "dashboard.png",
+      "title": "Přehled tréninku"
+    },
+    {
+      "file": "activities.png",
+      "title": "Aktivity"
+    },
+    {
+      "file": "strength.png",
+      "title": "Silový trénink"
+    },
+    {
+      "file": "running.png",
+      "title": "Běh"
+    },
+    {
+      "file": "recovery.png",
+      "title": "Regenerace"
+    },
+    {
+      "file": "import.png",
+      "title": "Import a data"
+    },
+    {
+      "file": "training-detail.png",
+      "title": "Detail silového tréninku"
+    },
+    {
+      "file": "running-detail.png",
+      "title": "Detail běhu"
+    },
+    {
+      "file": "working-sets.png",
+      "title": "Editace pracovních sérií"
+    }
+  ],
+  "run_id": 43630370872,
+  "run_attempt": 1,
+  "demo_time": "2026-11-14T11:00:00Z",
+  "timezone": "Europe/Prague",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  }
+}
