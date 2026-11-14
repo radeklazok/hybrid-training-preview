@@ -1,0 +1,47 @@
+{
+  "target": "pr-6",
+  "branch": "codex/period-management-v2",
+  "pr": 6,
+  "sha": "e3b00ab2bdb76348674cb4c652cefa7720cebb5a",
+  "short_sha": "e3b00ab",
+  "version": "pr-6",
+  "generated_at": "2026-11-14T19:14:53.649000+00:00",
+  "screenshots": [
+    {
+      "file": "periods-empty.png",
+      "title": "First-use timeline"
+    },
+    {
+      "file": "periods-en.png",
+      "title": "Periods — English"
+    },
+    {
+      "file": "periods-cs.png",
+      "title": "Periods — Czech"
+    },
+    {
+      "file": "period-create.png",
+      "title": "Create period — English"
+    },
+    {
+      "file": "period-boundary.png",
+      "title": "Shared boundary preview — English"
+    },
+    {
+      "file": "period-split.png",
+      "title": "Split period — Czech"
+    },
+    {
+      "file": "period-delete.png",
+      "title": "Delete period — Czech"
+    }
+  ],
+  "run_id": 43618901255,
+  "run_attempt": 3,
+  "demo_time": "2026-11-14T11:00:00Z",
+  "timezone": "Europe/Prague",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  }
+}
