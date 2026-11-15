@@ -2,10 +2,10 @@
   "target": "pr-9",
   "branch": "codex/timeline-ux-optimization",
   "pr": 9,
-  "sha": "03785bae10b8cd9c4592477e259bf9feb8e3ba9c",
-  "short_sha": "03785ba",
+  "sha": "db347fa734007189a253f913facaa622830ec063",
+  "short_sha": "db347fa",
   "version": "pr-9",
-  "generated_at": "2026-11-15T12:15:50.503000+00:00",
+  "generated_at": "2026-11-15T14:24:13.881000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -36,43 +36,67 @@
       "title": "Pause Training — explicit phase shortening preview"
     },
     {
-      "file": "timeline-czech.png",
-      "title": "Czech — Periods and Phases"
+      "file": "today-nine-months.png",
+      "title": "Today from 2024 retains nine months"
     },
     {
       "file": "selected-period.png",
-      "title": "Selected named Period — contextual workspace"
+      "title": "Selected Period synchronized with the visible-window table"
     },
     {
       "file": "phase-type-from-draft.png",
-      "title": "Create a Phase Type without losing the Phase draft"
-    },
-    {
-      "file": "unified-phase-editor.png",
-      "title": "Unified Phase editor with parent boundaries"
+      "title": "Phase Type creation from an unfinished Phase"
     },
     {
       "file": "selected-phase.png",
-      "title": "Named Phase with separate Type and parent context"
+      "title": "Selected Phase in the hierarchical overview"
+    },
+    {
+      "file": "unified-phase-editor.png",
+      "title": "Unified Phase editor from its table row"
     },
     {
       "file": "phase-create-timeline.png",
-      "title": "Create Phase from an uncovered calendar interval"
+      "title": "Create a Phase from uncovered calendar time"
+    },
+    {
+      "file": "visible-overview.png",
+      "title": "Visible Period Overview — hierarchy and actual dates"
     },
     {
       "file": "unified-period-editor.png",
-      "title": "Unified Period editor — category, name, dates and notes"
+      "title": "Unified Period editor from its table row"
     },
     {
       "file": "period-neighbor-preview.png",
-      "title": "One atomic edit — neighboring Period consequences"
+      "title": "Atomic Period edit and both neighboring boundaries"
     },
     {
       "file": "contextual-advanced-actions.png",
-      "title": "Contextual advanced operations — split and delete"
+      "title": "Advanced operations belong to their table row"
+    },
+    {
+      "file": "type-color-preview.png",
+      "title": "Phase Type color — state-specific Before and After"
+    },
+    {
+      "file": "type-icon-preview.png",
+      "title": "Phase Type icon — state-specific Before and After"
+    },
+    {
+      "file": "type-name-preview.png",
+      "title": "Phase Type name — state-specific Before and After"
+    },
+    {
+      "file": "type-conversion-preview.png",
+      "title": "Type conversion — original and destination appearances"
+    },
+    {
+      "file": "timeline-czech.png",
+      "title": "Česká časová osa a přehled"
     }
   ],
-  "run_id": 43712835010,
+  "run_id": 43724046377,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
