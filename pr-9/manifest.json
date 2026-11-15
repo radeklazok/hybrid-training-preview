@@ -2,10 +2,10 @@
   "target": "pr-9",
   "branch": "codex/timeline-ux-optimization",
   "pr": 9,
-  "sha": "df26f21ab70c54d3be83b336257b9b92c2bd4ee8",
-  "short_sha": "df26f21",
+  "sha": "de66f253cfa654efff7d9977e8e08d6c42692fe5",
+  "short_sha": "de66f25",
   "version": "pr-9",
-  "generated_at": "2026-11-15T15:14:03.961000+00:00",
+  "generated_at": "2026-11-15T15:53:25.831000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -96,11 +96,35 @@
       "title": "Type conversion — original and destination appearances"
     },
     {
+      "file": "sidebar-light.png",
+      "title": "Readable sidebar navigation — light mode"
+    },
+    {
+      "file": "timeline-select-open.png",
+      "title": "Timeline select open — light"
+    },
+    {
+      "file": "sidebar-dark.png",
+      "title": "Readable sidebar navigation — dark mode"
+    },
+    {
+      "file": "sidebar-dark-focus.png",
+      "title": "Dark sidebar navigation — keyboard focus"
+    },
+    {
+      "file": "timeline-select-dark-open.png",
+      "title": "Timeline select open — dark"
+    },
+    {
+      "file": "timeline-select-czech-open.png",
+      "title": "Český výběr rozsahu — otevřený"
+    },
+    {
       "file": "timeline-czech.png",
       "title": "Česká časová osa a přehled"
     }
   ],
-  "run_id": 43728574776,
+  "run_id": 43732223011,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
