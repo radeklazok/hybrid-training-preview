@@ -1,0 +1,51 @@
+{
+  "target": "pr-8",
+  "branch": "codex/period-timeline-redesign",
+  "pr": 8,
+  "sha": "7b5c6012465d9b5584d9aa5f98a3bf9975646c84",
+  "short_sha": "7b5c601",
+  "version": "pr-8",
+  "generated_at": "2026-11-15T09:57:29.694000+00:00",
+  "screenshots": [
+    {
+      "file": "timeline-periods.png",
+      "title": "Training, Rest and Unknown — no phases"
+    },
+    {
+      "file": "phase-type-picker.png",
+      "title": "Phase Type — color and semantic icon picker"
+    },
+    {
+      "file": "timeline-phases.png",
+      "title": "Aligned Period strip and proportional Phases"
+    },
+    {
+      "file": "phase-detail.png",
+      "title": "Selected phase and its parent context"
+    },
+    {
+      "file": "phase-type-lifecycle.png",
+      "title": "Archive or explicitly convert historical phases"
+    },
+    {
+      "file": "phase-type-convert.png",
+      "title": "Convert phases — explicit destination and affected count"
+    },
+    {
+      "file": "training-pause.png",
+      "title": "Pause Training — effective date confirmation"
+    },
+    {
+      "file": "timeline-czech.png",
+      "title": "Czech — Periods and Phases"
+    }
+  ],
+  "run_id": 43701643386,
+  "run_attempt": 1,
+  "demo_time": "2026-11-14T11:00:00Z",
+  "timezone": "Europe/Prague",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  }
+}
