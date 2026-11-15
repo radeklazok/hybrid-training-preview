@@ -2,10 +2,10 @@
   "target": "pr-9",
   "branch": "codex/timeline-ux-optimization",
   "pr": 9,
-  "sha": "db347fa734007189a253f913facaa622830ec063",
-  "short_sha": "db347fa",
+  "sha": "d6efc2eadb8a4622d2defde54e6d20a0af37926e",
+  "short_sha": "d6efc2e",
   "version": "pr-9",
-  "generated_at": "2026-11-15T14:24:13.881000+00:00",
+  "generated_at": "2026-11-15T15:00:19.841000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -96,7 +96,7 @@
       "title": "Česká časová osa a přehled"
     }
   ],
-  "run_id": 43724046377,
+  "run_id": 43727281362,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
