@@ -2,10 +2,10 @@
   "target": "pr-8",
   "branch": "codex/period-timeline-redesign",
   "pr": 8,
-  "sha": "7b5c6012465d9b5584d9aa5f98a3bf9975646c84",
-  "short_sha": "7b5c601",
+  "sha": "cf398095ba675590f083bba7a4cf2e5f21da89a4",
+  "short_sha": "cf39809",
   "version": "pr-8",
-  "generated_at": "2026-11-15T09:57:29.694000+00:00",
+  "generated_at": "2026-11-15T10:40:57.683000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -33,14 +33,14 @@
     },
     {
       "file": "training-pause.png",
-      "title": "Pause Training — effective date confirmation"
+      "title": "Pause Training — explicit phase shortening preview"
     },
     {
       "file": "timeline-czech.png",
       "title": "Czech — Periods and Phases"
     }
   ],
-  "run_id": 43701643386,
+  "run_id": 43705134592,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
