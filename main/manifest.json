@@ -2,10 +2,10 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "98799b8dc7516c4cecf59465b4ac1471684dab4c",
-  "short_sha": "98799b8",
+  "sha": "fe214418c14daf8808af420dc5fee86c53073de4",
+  "short_sha": "fe21441",
   "version": "main",
-  "generated_at": "2026-11-15T16:36:18.778000+00:00",
+  "generated_at": "2026-11-15T19:30:13.376000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -124,7 +124,7 @@
       "title": "Česká časová osa a přehled"
     }
   ],
-  "run_id": 43736256750,
+  "run_id": 43752644029,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
