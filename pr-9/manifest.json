@@ -2,10 +2,10 @@
   "target": "pr-9",
   "branch": "codex/timeline-ux-optimization",
   "pr": 9,
-  "sha": "10a7dec02cc6ea0ceb4c7604235895e2e91662c2",
-  "short_sha": "10a7dec",
+  "sha": "03785bae10b8cd9c4592477e259bf9feb8e3ba9c",
+  "short_sha": "03785ba",
   "version": "pr-9",
-  "generated_at": "2026-11-15T12:11:30.548000+00:00",
+  "generated_at": "2026-11-15T12:15:50.503000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -72,7 +72,7 @@
       "title": "Contextual advanced operations — split and delete"
     }
   ],
-  "run_id": 43712462484,
+  "run_id": 43712835010,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
