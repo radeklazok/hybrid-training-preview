@@ -2,41 +2,45 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "1f0e2718a671449908ef2e465b93608ff27c4d2c",
-  "short_sha": "1f0e271",
+  "sha": "6a807236f0fc1255531d387dc6b5cc53ab70f688",
+  "short_sha": "6a80723",
   "version": "main",
-  "generated_at": "2026-11-15T08:06:56.837000+00:00",
+  "generated_at": "2026-11-15T11:05:17.873000+00:00",
   "screenshots": [
     {
-      "file": "periods-empty.png",
-      "title": "First-use timeline"
+      "file": "timeline-periods.png",
+      "title": "Training, Rest and Unknown — no phases"
     },
     {
-      "file": "periods-en.png",
-      "title": "Periods — English"
+      "file": "phase-type-picker.png",
+      "title": "Phase Type — color and semantic icon picker"
     },
     {
-      "file": "periods-cs.png",
-      "title": "Periods — Czech"
+      "file": "timeline-phases.png",
+      "title": "Aligned Period strip and proportional Phases"
     },
     {
-      "file": "period-create.png",
-      "title": "Create period — English"
+      "file": "phase-detail.png",
+      "title": "Selected phase and its parent context"
     },
     {
-      "file": "period-boundary.png",
-      "title": "Shared boundary preview — English"
+      "file": "phase-type-lifecycle.png",
+      "title": "Archive or explicitly convert historical phases"
     },
     {
-      "file": "period-split.png",
-      "title": "Split period — Czech"
+      "file": "phase-type-convert.png",
+      "title": "Convert phases — explicit destination and affected count"
     },
     {
-      "file": "period-delete.png",
-      "title": "Delete period — Czech"
+      "file": "training-pause.png",
+      "title": "Pause Training — explicit phase shortening preview"
+    },
+    {
+      "file": "timeline-czech.png",
+      "title": "Czech — Periods and Phases"
     }
   ],
-  "run_id": 43692908685,
+  "run_id": 43707087815,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
