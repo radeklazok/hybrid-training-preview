@@ -1,0 +1,83 @@
+{
+  "target": "pr-9",
+  "branch": "codex/timeline-ux-optimization",
+  "pr": 9,
+  "sha": "10a7dec02cc6ea0ceb4c7604235895e2e91662c2",
+  "short_sha": "10a7dec",
+  "version": "pr-9",
+  "generated_at": "2026-11-15T12:11:30.548000+00:00",
+  "screenshots": [
+    {
+      "file": "timeline-periods.png",
+      "title": "Training, Rest and Unknown — no phases"
+    },
+    {
+      "file": "phase-type-picker.png",
+      "title": "Phase Type — color and semantic icon picker"
+    },
+    {
+      "file": "timeline-phases.png",
+      "title": "Aligned Period strip and proportional Phases"
+    },
+    {
+      "file": "phase-detail.png",
+      "title": "Selected phase and its parent context"
+    },
+    {
+      "file": "phase-type-lifecycle.png",
+      "title": "Archive or explicitly convert historical phases"
+    },
+    {
+      "file": "phase-type-convert.png",
+      "title": "Convert phases — explicit destination and affected count"
+    },
+    {
+      "file": "training-pause.png",
+      "title": "Pause Training — explicit phase shortening preview"
+    },
+    {
+      "file": "timeline-czech.png",
+      "title": "Czech — Periods and Phases"
+    },
+    {
+      "file": "selected-period.png",
+      "title": "Selected named Period — contextual workspace"
+    },
+    {
+      "file": "phase-type-from-draft.png",
+      "title": "Create a Phase Type without losing the Phase draft"
+    },
+    {
+      "file": "unified-phase-editor.png",
+      "title": "Unified Phase editor with parent boundaries"
+    },
+    {
+      "file": "selected-phase.png",
+      "title": "Named Phase with separate Type and parent context"
+    },
+    {
+      "file": "phase-create-timeline.png",
+      "title": "Create Phase from an uncovered calendar interval"
+    },
+    {
+      "file": "unified-period-editor.png",
+      "title": "Unified Period editor — category, name, dates and notes"
+    },
+    {
+      "file": "period-neighbor-preview.png",
+      "title": "One atomic edit — neighboring Period consequences"
+    },
+    {
+      "file": "contextual-advanced-actions.png",
+      "title": "Contextual advanced operations — split and delete"
+    }
+  ],
+  "run_id": 43712462484,
+  "run_attempt": 1,
+  "demo_time": "2026-11-14T11:00:00Z",
+  "timezone": "Europe/Prague",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  }
+}
