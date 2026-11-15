@@ -2,10 +2,10 @@
   "target": "pr-9",
   "branch": "codex/timeline-ux-optimization",
   "pr": 9,
-  "sha": "d6efc2eadb8a4622d2defde54e6d20a0af37926e",
-  "short_sha": "d6efc2e",
+  "sha": "df26f21ab70c54d3be83b336257b9b92c2bd4ee8",
+  "short_sha": "df26f21",
   "version": "pr-9",
-  "generated_at": "2026-11-15T15:00:19.841000+00:00",
+  "generated_at": "2026-11-15T15:14:03.961000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -36,8 +36,12 @@
       "title": "Pause Training — explicit phase shortening preview"
     },
     {
-      "file": "today-nine-months.png",
-      "title": "Today from 2024 retains nine months"
+      "file": "today-twelve-months.png",
+      "title": "Today from 2024 retains twelve months"
+    },
+    {
+      "file": "timeline-toolbar-dark.png",
+      "title": "Timeline toolbar — twelve months in dark mode"
     },
     {
       "file": "selected-period.png",
@@ -96,7 +100,7 @@
       "title": "Česká časová osa a přehled"
     }
   ],
-  "run_id": 43727281362,
+  "run_id": 43728574776,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
