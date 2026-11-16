@@ -2,10 +2,10 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "fe214418c14daf8808af420dc5fee86c53073de4",
-  "short_sha": "fe21441",
+  "sha": "663c4c0ed6f6c853f6bcd7cb0ce8ef70e3fdbcf9",
+  "short_sha": "663c4c0",
   "version": "main",
-  "generated_at": "2026-11-15T19:30:13.376000+00:00",
+  "generated_at": "2026-11-16T15:23:34.938000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -122,9 +122,45 @@
     {
       "file": "timeline-czech.png",
       "title": "Česká časová osa a přehled"
+    },
+    {
+      "file": "workout-detail.png",
+      "title": "Completed workout — common metadata and source"
+    },
+    {
+      "file": "workout-delete-confirmation.png",
+      "title": "Delete activity — confirmation preserves originals and shared identities"
+    },
+    {
+      "file": "workouts-search-current.png",
+      "title": "Current-week search result with all five weekly activities"
+    },
+    {
+      "file": "workouts-search-weeks.png",
+      "title": "Name search across weeks leaves the selected week complete"
+    },
+    {
+      "file": "workouts-search-historical.png",
+      "title": "Selected historical result opens its week with unrelated activities visible"
+    },
+    {
+      "file": "workouts-week-calendar.png",
+      "title": "Shared calendar in weekly timeline navigation"
+    },
+    {
+      "file": "workouts-week.png",
+      "title": "Completed workouts — weekly history"
+    },
+    {
+      "file": "workouts-week-dark.png",
+      "title": "Completed workouts — dark theme"
+    },
+    {
+      "file": "workouts-czech.png",
+      "title": "Tréninky — týdenní historie"
     }
   ],
-  "run_id": 43752644029,
+  "run_id": 43895477740,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
