@@ -2,10 +2,10 @@
   "target": "pr-12",
   "branch": "codex/strength-activity-detail",
   "pr": 12,
-  "sha": "bb31816495179c12090b0fa1425eaef2512b0eb6",
-  "short_sha": "bb31816",
+  "sha": "f566cf46b651c9760b8dc55e3c25feaad8e9011b",
+  "short_sha": "f566cf4",
   "version": "pr-12",
-  "generated_at": "2026-11-16T16:40:56.507000+00:00",
+  "generated_at": "2026-11-16T17:10:07.984000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -192,7 +192,7 @@
       "title": "Strength — recorded intervals without physiological samples"
     }
   ],
-  "run_id": 43909832016,
+  "run_id": 43915135875,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
