@@ -2,10 +2,10 @@
   "target": "pr-12",
   "branch": "codex/strength-activity-detail",
   "pr": 12,
-  "sha": "ddddea39240b8b578b6b51ffa5676075e6bc0481",
-  "short_sha": "ddddea3",
+  "sha": "2c1394dae49b88895ac62dff2122a706fe996eff",
+  "short_sha": "2c1394d",
   "version": "pr-12",
-  "generated_at": "2026-11-16T17:28:24.245000+00:00",
+  "generated_at": "2026-11-16T19:14:54.834000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -190,9 +190,13 @@
     {
       "file": "strength-no-measurements.png",
       "title": "Strength — recorded intervals without physiological samples"
+    },
+    {
+      "file": "strength-corrected.png",
+      "title": "Strength — saved corrections, effective volume and original physiological timing"
     }
   ],
-  "run_id": 43918389210,
+  "run_id": 43936943209,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
