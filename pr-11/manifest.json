@@ -2,10 +2,10 @@
   "target": "pr-11",
   "branch": "codex/workouts-weekly-history",
   "pr": 11,
-  "sha": "af82f2bdc387b124df93f46562b4005a69f27a49",
-  "short_sha": "af82f2b",
+  "sha": "ced43921f7e7c0544f3c4f3c4f970eed1357fa3b",
+  "short_sha": "ced4392",
   "version": "pr-11",
-  "generated_at": "2026-11-16T12:15:37.605000+00:00",
+  "generated_at": "2026-11-16T12:36:04.577000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -144,7 +144,7 @@
       "title": "Tréninky — týdenní historie"
     }
   ],
-  "run_id": 43864615190,
+  "run_id": 43867764818,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
