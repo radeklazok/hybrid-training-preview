@@ -2,10 +2,10 @@
   "target": "pr-12",
   "branch": "codex/strength-activity-detail",
   "pr": 12,
-  "sha": "0bb20d5a676535f30ee31505a1f373bcc398507a",
-  "short_sha": "0bb20d5",
+  "sha": "bb31816495179c12090b0fa1425eaef2512b0eb6",
+  "short_sha": "bb31816",
   "version": "pr-12",
-  "generated_at": "2026-11-16T15:46:27.178000+00:00",
+  "generated_at": "2026-11-16T16:40:56.507000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -161,34 +161,38 @@
     },
     {
       "file": "strength-desktop.png",
-      "title": "Strength — compact exercise list and actual response"
+      "title": "Strength — recorded Cardio, two-row cards and individual set pills"
+    },
+    {
+      "file": "strength-final-rest.png",
+      "title": "Strength — four sets, final rest and every boundary on the axis"
     },
     {
       "file": "strength-variable-sets.png",
-      "title": "Strength — variable actual weights and repetitions"
+      "title": "Strength — individual actual sets in source order"
     },
     {
       "file": "strength-respiration.png",
-      "title": "Strength — respiration for selected exercise"
+      "title": "Strength — respiration including final rest"
     },
     {
       "file": "strength-bodyweight.png",
-      "title": "Strength — bodyweight sets"
+      "title": "Strength — bodyweight set pills"
     },
     {
       "file": "strength-timed.png",
-      "title": "Strength — actual timed holds"
+      "title": "Strength — actual timed set pills"
     },
     {
       "file": "strength-dark.png",
-      "title": "Strength — dark theme"
+      "title": "Strength — dark set pills and final-rest timeline"
     },
     {
       "file": "strength-no-measurements.png",
-      "title": "Strength — no physiological samples"
+      "title": "Strength — recorded intervals without physiological samples"
     }
   ],
-  "run_id": 43899550112,
+  "run_id": 43909832016,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
