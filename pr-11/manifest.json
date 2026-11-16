@@ -2,10 +2,10 @@
   "target": "pr-11",
   "branch": "codex/workouts-weekly-history",
   "pr": 11,
-  "sha": "9601b6508e0637485250245059cad1355a488c56",
-  "short_sha": "9601b65",
+  "sha": "af82f2bdc387b124df93f46562b4005a69f27a49",
+  "short_sha": "af82f2b",
   "version": "pr-11",
-  "generated_at": "2026-11-16T10:22:39.698000+00:00",
+  "generated_at": "2026-11-16T12:15:37.605000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -128,6 +128,10 @@
       "title": "Completed workout — common metadata and source"
     },
     {
+      "file": "workout-delete-confirmation.png",
+      "title": "Delete activity — confirmation preserves originals and shared identities"
+    },
+    {
       "file": "workouts-week.png",
       "title": "Completed workouts — weekly history"
     },
@@ -140,7 +144,7 @@
       "title": "Tréninky — týdenní historie"
     }
   ],
-  "run_id": 43848035808,
+  "run_id": 43864615190,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
