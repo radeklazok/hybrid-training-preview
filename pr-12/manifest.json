@@ -2,10 +2,10 @@
   "target": "pr-12",
   "branch": "codex/strength-activity-detail",
   "pr": 12,
-  "sha": "2c1394dae49b88895ac62dff2122a706fe996eff",
-  "short_sha": "2c1394d",
+  "sha": "d68ecf286b2d91d479d4e72152b887d68fb24ca5",
+  "short_sha": "d68ecf2",
   "version": "pr-12",
-  "generated_at": "2026-11-16T19:14:54.834000+00:00",
+  "generated_at": "2026-11-16T20:32:56.160000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -196,7 +196,7 @@
       "title": "Strength — saved corrections, effective volume and original physiological timing"
     }
   ],
-  "run_id": 43936943209,
+  "run_id": 43950572351,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
