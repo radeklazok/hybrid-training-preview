@@ -2,10 +2,10 @@
   "target": "pr-13",
   "branch": "codex/periods-facelift",
   "pr": 13,
-  "sha": "a742f1bfaec9d496c5910e5cef2f16230c8f36ec",
-  "short_sha": "a742f1b",
+  "sha": "88cd49844da942c903bdca98732317368a185d9b",
+  "short_sha": "88cd498",
   "version": "pr-13",
-  "generated_at": "2026-11-17T12:18:53.445000+00:00",
+  "generated_at": "2026-11-17T13:59:14.930000+00:00",
   "screenshots": [
     {
       "file": "facelift-empty.png",
@@ -185,7 +185,7 @@
     },
     {
       "file": "workout-detail.png",
-      "title": "Completed workout — common metadata and source"
+      "title": "Completed cycling workout — identity, duration and technical source"
     },
     {
       "file": "workout-delete-confirmation.png",
@@ -264,7 +264,7 @@
       "title": "Authentication — dark"
     }
   ],
-  "run_id": 44081588841,
+  "run_id": 44097794257,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
