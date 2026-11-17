@@ -2,10 +2,10 @@
   "target": "pr-13",
   "branch": "codex/periods-facelift",
   "pr": 13,
-  "sha": "e23bbb74c31833e2c61e328a1ccc676d0b7847d7",
-  "short_sha": "e23bbb7",
+  "sha": "b9753e8c51db9afef0d0c5d9a23156b59681306f",
+  "short_sha": "b9753e8",
   "version": "pr-13",
-  "generated_at": "2026-11-17T14:45:49.241000+00:00",
+  "generated_at": "2026-11-17T15:21:39.813000+00:00",
   "screenshots": [
     {
       "file": "facelift-empty.png",
@@ -264,7 +264,7 @@
       "title": "Authentication — dark"
     }
   ],
-  "run_id": 44106269060,
+  "run_id": 44112997759,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
