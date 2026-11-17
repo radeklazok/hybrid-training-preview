@@ -1,0 +1,247 @@
+{
+  "target": "pr-13",
+  "branch": "codex/periods-facelift",
+  "pr": 13,
+  "sha": "3ecec7db2c1251630c8db7921f1b4a4c9e42a07e",
+  "short_sha": "3ecec7d",
+  "version": "pr-13",
+  "generated_at": "2026-11-17T10:44:55.298000+00:00",
+  "screenshots": [
+    {
+      "file": "timeline-periods.png",
+      "title": "Training, Rest and Unknown — no phases"
+    },
+    {
+      "file": "phase-type-picker.png",
+      "title": "Phase Type — color and semantic icon picker"
+    },
+    {
+      "file": "timeline-phases.png",
+      "title": "Aligned Period strip and proportional Phases"
+    },
+    {
+      "file": "phase-detail.png",
+      "title": "Selected phase and its parent context"
+    },
+    {
+      "file": "phase-type-lifecycle.png",
+      "title": "Archive or explicitly convert historical phases"
+    },
+    {
+      "file": "phase-type-convert.png",
+      "title": "Convert phases — explicit destination and affected count"
+    },
+    {
+      "file": "training-pause.png",
+      "title": "Pause Training — explicit phase shortening preview"
+    },
+    {
+      "file": "today-twelve-months.png",
+      "title": "Today from 2024 retains twelve months"
+    },
+    {
+      "file": "timeline-toolbar-dark.png",
+      "title": "Timeline toolbar — twelve months in dark mode"
+    },
+    {
+      "file": "selected-period.png",
+      "title": "Selected Period synchronized with the visible-window table"
+    },
+    {
+      "file": "phase-type-from-draft.png",
+      "title": "Phase Type creation from an unfinished Phase"
+    },
+    {
+      "file": "selected-phase.png",
+      "title": "Selected Phase in the hierarchical overview"
+    },
+    {
+      "file": "unified-phase-editor.png",
+      "title": "Unified Phase editor from its table row"
+    },
+    {
+      "file": "phase-create-timeline.png",
+      "title": "Create a Phase from uncovered calendar time"
+    },
+    {
+      "file": "visible-overview.png",
+      "title": "Visible Period Overview — hierarchy and actual dates"
+    },
+    {
+      "file": "unified-period-editor.png",
+      "title": "Unified Period editor from its table row"
+    },
+    {
+      "file": "period-neighbor-preview.png",
+      "title": "Atomic Period edit and both neighboring boundaries"
+    },
+    {
+      "file": "contextual-advanced-actions.png",
+      "title": "Advanced operations belong to their table row"
+    },
+    {
+      "file": "type-color-preview.png",
+      "title": "Phase Type color — state-specific Before and After"
+    },
+    {
+      "file": "type-icon-preview.png",
+      "title": "Phase Type icon — state-specific Before and After"
+    },
+    {
+      "file": "type-name-preview.png",
+      "title": "Phase Type name — state-specific Before and After"
+    },
+    {
+      "file": "type-conversion-preview.png",
+      "title": "Type conversion — original and destination appearances"
+    },
+    {
+      "file": "sidebar-light.png",
+      "title": "Readable sidebar navigation — light mode"
+    },
+    {
+      "file": "timeline-select-open.png",
+      "title": "Timeline select open — light"
+    },
+    {
+      "file": "sidebar-dark.png",
+      "title": "Readable sidebar navigation — dark mode"
+    },
+    {
+      "file": "sidebar-dark-focus.png",
+      "title": "Dark sidebar navigation — keyboard focus"
+    },
+    {
+      "file": "timeline-select-dark-open.png",
+      "title": "Timeline select open — dark"
+    },
+    {
+      "file": "timeline-select-czech-open.png",
+      "title": "Český výběr rozsahu — otevřený"
+    },
+    {
+      "file": "timeline-czech.png",
+      "title": "Česká časová osa a přehled"
+    },
+    {
+      "file": "facelift-overview-light.png",
+      "title": "Období — light, Czech, selected Period"
+    },
+    {
+      "file": "facelift-overview-dark.png",
+      "title": "Období — dark, Czech, selected Period"
+    },
+    {
+      "file": "facelift-selected-phase.png",
+      "title": "Selected Phase — matching timeline and overview, keyboard focus"
+    },
+    {
+      "file": "facelift-period-editor.png",
+      "title": "Period editor — Czech"
+    },
+    {
+      "file": "facelift-phase-editor-dark.png",
+      "title": "Phase editor — dark, Czech"
+    },
+    {
+      "file": "facelift-type-editor-light.png",
+      "title": "Phase Type — color and icon editor, light"
+    },
+    {
+      "file": "facelift-type-editor-dark.png",
+      "title": "Phase Type — color and icon editor, dark"
+    },
+    {
+      "file": "facelift-responsive-768.png",
+      "title": "Responsive Periods — Czech, 768px"
+    },
+    {
+      "file": "facelift-responsive-390.png",
+      "title": "Responsive Periods — Czech, 390px"
+    },
+    {
+      "file": "facelift-mobile-dialog.png",
+      "title": "Scrollable Phase editor — Czech, 390px"
+    },
+    {
+      "file": "workout-detail.png",
+      "title": "Completed workout — common metadata and source"
+    },
+    {
+      "file": "workout-delete-confirmation.png",
+      "title": "Delete activity — confirmation preserves originals and shared identities"
+    },
+    {
+      "file": "workouts-search-current.png",
+      "title": "Current-week search result with all five weekly activities"
+    },
+    {
+      "file": "workouts-search-weeks.png",
+      "title": "Name search across weeks leaves the selected week complete"
+    },
+    {
+      "file": "workouts-search-historical.png",
+      "title": "Selected historical result opens its week with unrelated activities visible"
+    },
+    {
+      "file": "workouts-week-calendar.png",
+      "title": "Shared calendar in weekly timeline navigation"
+    },
+    {
+      "file": "workouts-week.png",
+      "title": "Completed workouts — weekly history"
+    },
+    {
+      "file": "workouts-week-dark.png",
+      "title": "Completed workouts — dark theme"
+    },
+    {
+      "file": "workouts-czech.png",
+      "title": "Tréninky — týdenní historie"
+    },
+    {
+      "file": "strength-desktop.png",
+      "title": "Strength — recorded Cardio, two-row cards and individual set pills"
+    },
+    {
+      "file": "strength-final-rest.png",
+      "title": "Strength — four sets, final rest and every boundary on the axis"
+    },
+    {
+      "file": "strength-variable-sets.png",
+      "title": "Strength — individual actual sets in source order"
+    },
+    {
+      "file": "strength-respiration.png",
+      "title": "Strength — respiration including final rest"
+    },
+    {
+      "file": "strength-bodyweight.png",
+      "title": "Strength — bodyweight set pills"
+    },
+    {
+      "file": "strength-timed.png",
+      "title": "Strength — actual timed set pills"
+    },
+    {
+      "file": "strength-dark.png",
+      "title": "Strength — dark set pills and final-rest timeline"
+    },
+    {
+      "file": "strength-no-measurements.png",
+      "title": "Strength — recorded intervals without physiological samples"
+    },
+    {
+      "file": "strength-corrected.png",
+      "title": "Strength — saved corrections, effective volume and original physiological timing"
+    }
+  ],
+  "run_id": 44067342795,
+  "run_attempt": 1,
+  "demo_time": "2026-11-14T11:00:00Z",
+  "timezone": "Europe/Prague",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  }
+}
