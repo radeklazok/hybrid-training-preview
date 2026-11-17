@@ -2,10 +2,10 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "663c4c0ed6f6c853f6bcd7cb0ce8ef70e3fdbcf9",
-  "short_sha": "663c4c0",
+  "sha": "bfc0a04cb37e6abebb34bceba90c6a4e8ed5dfc8",
+  "short_sha": "bfc0a04",
   "version": "main",
-  "generated_at": "2026-11-16T15:23:34.938000+00:00",
+  "generated_at": "2026-11-17T09:21:04.667000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -158,9 +158,45 @@
     {
       "file": "workouts-czech.png",
       "title": "Tréninky — týdenní historie"
+    },
+    {
+      "file": "strength-desktop.png",
+      "title": "Strength — recorded Cardio, two-row cards and individual set pills"
+    },
+    {
+      "file": "strength-final-rest.png",
+      "title": "Strength — four sets, final rest and every boundary on the axis"
+    },
+    {
+      "file": "strength-variable-sets.png",
+      "title": "Strength — individual actual sets in source order"
+    },
+    {
+      "file": "strength-respiration.png",
+      "title": "Strength — respiration including final rest"
+    },
+    {
+      "file": "strength-bodyweight.png",
+      "title": "Strength — bodyweight set pills"
+    },
+    {
+      "file": "strength-timed.png",
+      "title": "Strength — actual timed set pills"
+    },
+    {
+      "file": "strength-dark.png",
+      "title": "Strength — dark set pills and final-rest timeline"
+    },
+    {
+      "file": "strength-no-measurements.png",
+      "title": "Strength — recorded intervals without physiological samples"
+    },
+    {
+      "file": "strength-corrected.png",
+      "title": "Strength — saved corrections, effective volume and original physiological timing"
     }
   ],
-  "run_id": 43895477740,
+  "run_id": 44054444206,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
