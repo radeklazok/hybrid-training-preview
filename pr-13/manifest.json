@@ -2,11 +2,15 @@
   "target": "pr-13",
   "branch": "codex/periods-facelift",
   "pr": 13,
-  "sha": "3ecec7db2c1251630c8db7921f1b4a4c9e42a07e",
-  "short_sha": "3ecec7d",
+  "sha": "a742f1bfaec9d496c5910e5cef2f16230c8f36ec",
+  "short_sha": "a742f1b",
   "version": "pr-13",
-  "generated_at": "2026-11-17T10:44:55.298000+00:00",
+  "generated_at": "2026-11-17T12:18:53.445000+00:00",
   "screenshots": [
+    {
+      "file": "facelift-empty.png",
+      "title": "Periods — empty initialization state"
+    },
     {
       "file": "timeline-periods.png",
       "title": "Training, Rest and Unknown — no phases"
@@ -22,6 +26,10 @@
     {
       "file": "phase-detail.png",
       "title": "Selected phase and its parent context"
+    },
+    {
+      "file": "facelift-validation.png",
+      "title": "Period validation — protected Phase boundary"
     },
     {
       "file": "phase-type-lifecycle.png",
@@ -140,6 +148,10 @@
       "title": "Period editor — Czech"
     },
     {
+      "file": "facelift-phase-editor-light.png",
+      "title": "Phase editor — light, Czech"
+    },
+    {
       "file": "facelift-phase-editor-dark.png",
       "title": "Phase editor — dark, Czech"
     },
@@ -162,6 +174,14 @@
     {
       "file": "facelift-mobile-dialog.png",
       "title": "Scrollable Phase editor — Czech, 390px"
+    },
+    {
+      "file": "facelift-tonal-colors.png",
+      "title": "Renderer-only custom RGB tones — persistence unchanged"
+    },
+    {
+      "file": "facelift-workout-import.png",
+      "title": "Workouts — busy import and empty week"
     },
     {
       "file": "workout-detail.png",
@@ -234,9 +254,17 @@
     {
       "file": "strength-corrected.png",
       "title": "Strength — saved corrections, effective volume and original physiological timing"
+    },
+    {
+      "file": "facelift-login-light.png",
+      "title": "Authentication — light"
+    },
+    {
+      "file": "facelift-login-dark.png",
+      "title": "Authentication — dark"
     }
   ],
-  "run_id": 44067342795,
+  "run_id": 44081588841,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
