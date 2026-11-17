@@ -2,11 +2,15 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "bfc0a04cb37e6abebb34bceba90c6a4e8ed5dfc8",
-  "short_sha": "bfc0a04",
+  "sha": "818bcc628c38d5d1521c8e04a1b598393144064f",
+  "short_sha": "818bcc6",
   "version": "main",
-  "generated_at": "2026-11-17T09:21:04.667000+00:00",
+  "generated_at": "2026-11-17T16:14:17.021000+00:00",
   "screenshots": [
+    {
+      "file": "facelift-empty.png",
+      "title": "Periods — empty initialization state"
+    },
     {
       "file": "timeline-periods.png",
       "title": "Training, Rest and Unknown — no phases"
@@ -22,6 +26,10 @@
     {
       "file": "phase-detail.png",
       "title": "Selected phase and its parent context"
+    },
+    {
+      "file": "facelift-validation.png",
+      "title": "Period validation — protected Phase boundary"
     },
     {
       "file": "phase-type-lifecycle.png",
@@ -53,7 +61,7 @@
     },
     {
       "file": "selected-phase.png",
-      "title": "Selected Phase in the hierarchical overview"
+      "title": "Selected Phase in the hierarchical overview — dark"
     },
     {
       "file": "unified-phase-editor.png",
@@ -124,8 +132,60 @@
       "title": "Česká časová osa a přehled"
     },
     {
+      "file": "facelift-overview-light.png",
+      "title": "Období — light, Czech, selected Period"
+    },
+    {
+      "file": "facelift-overview-dark.png",
+      "title": "Období — dark, Czech, selected Period"
+    },
+    {
+      "file": "facelift-selected-phase.png",
+      "title": "Selected Phase — matching timeline and overview, keyboard focus"
+    },
+    {
+      "file": "facelift-period-editor.png",
+      "title": "Period editor — Czech"
+    },
+    {
+      "file": "facelift-phase-editor-light.png",
+      "title": "Phase editor — light, Czech"
+    },
+    {
+      "file": "facelift-phase-editor-dark.png",
+      "title": "Phase editor — dark, Czech"
+    },
+    {
+      "file": "facelift-type-editor-light.png",
+      "title": "Phase Type — color and icon editor, light"
+    },
+    {
+      "file": "facelift-type-editor-dark.png",
+      "title": "Phase Type — color and icon editor, dark"
+    },
+    {
+      "file": "facelift-responsive-768.png",
+      "title": "Responsive Periods — Czech, 768px"
+    },
+    {
+      "file": "facelift-responsive-390.png",
+      "title": "Responsive Periods — Czech, 390px"
+    },
+    {
+      "file": "facelift-mobile-dialog.png",
+      "title": "Scrollable Phase editor — Czech, 390px"
+    },
+    {
+      "file": "facelift-tonal-colors.png",
+      "title": "Renderer-only custom RGB tones — persistence unchanged"
+    },
+    {
+      "file": "facelift-workout-import.png",
+      "title": "Workouts — busy import and empty week"
+    },
+    {
       "file": "workout-detail.png",
-      "title": "Completed workout — common metadata and source"
+      "title": "Completed cycling workout — identity, duration and technical source"
     },
     {
       "file": "workout-delete-confirmation.png",
@@ -194,9 +254,17 @@
     {
       "file": "strength-corrected.png",
       "title": "Strength — saved corrections, effective volume and original physiological timing"
+    },
+    {
+      "file": "facelift-login-light.png",
+      "title": "Authentication — light"
+    },
+    {
+      "file": "facelift-login-dark.png",
+      "title": "Authentication — dark"
     }
   ],
-  "run_id": 44054444206,
+  "run_id": 44123012286,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
