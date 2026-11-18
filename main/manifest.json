@@ -2,15 +2,11 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "818bcc628c38d5d1521c8e04a1b598393144064f",
-  "short_sha": "818bcc6",
+  "sha": "5b7b7e2d2d0c52e5bacb29dfc823eb6c4412d1dc",
+  "short_sha": "5b7b7e2",
   "version": "main",
-  "generated_at": "2026-11-17T16:14:17.021000+00:00",
+  "generated_at": "2026-11-18T20:46:35.708000+00:00",
   "screenshots": [
-    {
-      "file": "facelift-empty.png",
-      "title": "Periods — empty initialization state"
-    },
     {
       "file": "timeline-periods.png",
       "title": "Training, Rest and Unknown — no phases"
@@ -26,10 +22,6 @@
     {
       "file": "phase-detail.png",
       "title": "Selected phase and its parent context"
-    },
-    {
-      "file": "facelift-validation.png",
-      "title": "Period validation — protected Phase boundary"
     },
     {
       "file": "phase-type-lifecycle.png",
@@ -148,10 +140,6 @@
       "title": "Period editor — Czech"
     },
     {
-      "file": "facelift-phase-editor-light.png",
-      "title": "Phase editor — light, Czech"
-    },
-    {
       "file": "facelift-phase-editor-dark.png",
       "title": "Phase editor — dark, Czech"
     },
@@ -174,10 +162,6 @@
     {
       "file": "facelift-mobile-dialog.png",
       "title": "Scrollable Phase editor — Czech, 390px"
-    },
-    {
-      "file": "facelift-tonal-colors.png",
-      "title": "Renderer-only custom RGB tones — persistence unchanged"
     },
     {
       "file": "facelift-workout-import.png",
@@ -256,15 +240,31 @@
       "title": "Strength — saved corrections, effective volume and original physiological timing"
     },
     {
-      "file": "facelift-login-light.png",
-      "title": "Authentication — light"
+      "file": "overview-strength-collapsed.png",
+      "title": "Overview — historical Strength match, collapsed"
     },
     {
-      "file": "facelift-login-dark.png",
-      "title": "Authentication — dark"
+      "file": "overview-strength-expanded.png",
+      "title": "Overview — actual results and individual set pills"
+    },
+    {
+      "file": "overview-narrow.png",
+      "title": "Přehled — skutečné výsledky při šířce 390 px"
+    },
+    {
+      "file": "overview-dark.png",
+      "title": "Přehled — tmavý režim"
+    },
+    {
+      "file": "overview-no-workout.png",
+      "title": "Overview — no expected workout, weekly history remains available"
+    },
+    {
+      "file": "overview-running.png",
+      "title": "Overview — recorded running session summary"
     }
   ],
-  "run_id": 44123012286,
+  "run_id": 44394159796,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
