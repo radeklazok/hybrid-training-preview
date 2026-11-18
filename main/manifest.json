@@ -2,10 +2,10 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "5b7b7e2d2d0c52e5bacb29dfc823eb6c4412d1dc",
-  "short_sha": "5b7b7e2",
+  "sha": "0c941c849680e3ddeb6e29b4aaf470608a9d7ebe",
+  "short_sha": "0c941c8",
   "version": "main",
-  "generated_at": "2026-11-18T20:46:35.708000+00:00",
+  "generated_at": "2026-11-18T20:57:47.503000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -100,24 +100,12 @@
       "title": "Readable sidebar navigation — light mode"
     },
     {
-      "file": "timeline-select-open.png",
-      "title": "Timeline select open — light"
-    },
-    {
       "file": "sidebar-dark.png",
       "title": "Readable sidebar navigation — dark mode"
     },
     {
       "file": "sidebar-dark-focus.png",
       "title": "Dark sidebar navigation — keyboard focus"
-    },
-    {
-      "file": "timeline-select-dark-open.png",
-      "title": "Timeline select open — dark"
-    },
-    {
-      "file": "timeline-select-czech-open.png",
-      "title": "Český výběr rozsahu — otevřený"
     },
     {
       "file": "timeline-czech.png",
@@ -138,18 +126,6 @@
     {
       "file": "facelift-period-editor.png",
       "title": "Period editor — Czech"
-    },
-    {
-      "file": "facelift-phase-editor-dark.png",
-      "title": "Phase editor — dark, Czech"
-    },
-    {
-      "file": "facelift-type-editor-light.png",
-      "title": "Phase Type — color and icon editor, light"
-    },
-    {
-      "file": "facelift-type-editor-dark.png",
-      "title": "Phase Type — color and icon editor, dark"
     },
     {
       "file": "facelift-responsive-768.png",
@@ -249,11 +225,11 @@
     },
     {
       "file": "overview-narrow.png",
-      "title": "Přehled — skutečné výsledky při šířce 390 px"
+      "title": "Přehled — zarovnané sekce a minulé výsledky při šířce 390 px"
     },
     {
       "file": "overview-dark.png",
-      "title": "Přehled — tmavý režim"
+      "title": "Overview — explicit Dark override on a light system"
     },
     {
       "file": "overview-no-workout.png",
@@ -262,9 +238,33 @@
     {
       "file": "overview-running.png",
       "title": "Overview — recorded running session summary"
+    },
+    {
+      "file": "overview-selector.png",
+      "title": "Overview — compact anchored historical activity selector"
+    },
+    {
+      "file": "overview-completed-strength.png",
+      "title": "Overview — today's completed Strength execution"
+    },
+    {
+      "file": "overview-completed-running.png",
+      "title": "Overview — today's completed run overrides expected Strength"
+    },
+    {
+      "file": "overview-completed-multiple.png",
+      "title": "Overview — multiple completed activities today"
+    },
+    {
+      "file": "overview-first-week.png",
+      "title": "Overview — first Phase week, unavailable selector hidden"
+    },
+    {
+      "file": "overview-light.png",
+      "title": "Overview — explicit Light override on a dark system"
     }
   ],
-  "run_id": 44394159796,
+  "run_id": 44396057482,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
