@@ -2,10 +2,10 @@
   "target": "pr-16",
   "branch": "codex/workouts-history",
   "pr": 16,
-  "sha": "ddee20d4d1e52c97c68e08ba80ade77be847d27d",
-  "short_sha": "ddee20d",
+  "sha": "6d553d69d8baa06aac9c304f72a448b3ebde696e",
+  "short_sha": "6d553d6",
   "version": "pr-16",
-  "generated_at": "2026-11-19T18:45:39.620000+00:00",
+  "generated_at": "2026-11-19T20:12:57.320000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -144,6 +144,14 @@
       "title": "Workouts — source import in progress"
     },
     {
+      "file": "workouts-ungrouped.png",
+      "title": "Default activity history — light"
+    },
+    {
+      "file": "workouts-week-dark.png",
+      "title": "Default activity history — dark"
+    },
+    {
       "file": "workouts-week.png",
       "title": "Completed activities grouped by week"
     },
@@ -168,16 +176,8 @@
       "title": "Search combined with activity type and Garmin workout"
     },
     {
-      "file": "workouts-week-dark.png",
-      "title": "Completed activities — dark theme"
-    },
-    {
-      "file": "workouts-ungrouped.png",
-      "title": "Ungrouped history with sortable activity metrics"
-    },
-    {
       "file": "workouts-czech.png",
-      "title": "Tréninky — seskupení podle tréninků Garmin"
+      "title": "Tréninky — řaditelná historie"
     },
     {
       "file": "strength-desktop.png",
@@ -264,7 +264,7 @@
       "title": "Overview — explicit Light override on a dark system"
     }
   ],
-  "run_id": 44590719877,
+  "run_id": 44605817985,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
