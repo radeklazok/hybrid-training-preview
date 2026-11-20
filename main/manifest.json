@@ -2,10 +2,10 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "0c941c849680e3ddeb6e29b4aaf470608a9d7ebe",
-  "short_sha": "0c941c8",
+  "sha": "5fd4001fedb1ba16edc044ffdde99e8ff9562408",
+  "short_sha": "5fd4001",
   "version": "main",
-  "generated_at": "2026-11-18T20:57:47.503000+00:00",
+  "generated_at": "2026-11-20T21:11:05.828000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -104,10 +104,6 @@
       "title": "Readable sidebar navigation — dark mode"
     },
     {
-      "file": "sidebar-dark-focus.png",
-      "title": "Dark sidebar navigation — keyboard focus"
-    },
-    {
       "file": "timeline-czech.png",
       "title": "Česká časová osa a přehled"
     },
@@ -128,60 +124,44 @@
       "title": "Period editor — Czech"
     },
     {
-      "file": "facelift-responsive-768.png",
-      "title": "Responsive Periods — Czech, 768px"
-    },
-    {
-      "file": "facelift-responsive-390.png",
-      "title": "Responsive Periods — Czech, 390px"
-    },
-    {
-      "file": "facelift-mobile-dialog.png",
-      "title": "Scrollable Phase editor — Czech, 390px"
-    },
-    {
-      "file": "facelift-workout-import.png",
-      "title": "Workouts — busy import and empty week"
-    },
-    {
-      "file": "workout-detail.png",
-      "title": "Completed cycling workout — identity, duration and technical source"
-    },
-    {
-      "file": "workout-delete-confirmation.png",
-      "title": "Delete activity — confirmation preserves originals and shared identities"
-    },
-    {
-      "file": "workouts-search-current.png",
-      "title": "Current-week search result with all five weekly activities"
-    },
-    {
-      "file": "workouts-search-weeks.png",
-      "title": "Name search across weeks leaves the selected week complete"
-    },
-    {
-      "file": "workouts-search-historical.png",
-      "title": "Selected historical result opens its week with unrelated activities visible"
-    },
-    {
-      "file": "workouts-week-calendar.png",
-      "title": "Shared calendar in weekly timeline navigation"
-    },
-    {
-      "file": "workouts-week.png",
-      "title": "Completed workouts — weekly history"
+      "file": "workouts-ungrouped.png",
+      "title": "Default activity history — light"
     },
     {
       "file": "workouts-week-dark.png",
-      "title": "Completed workouts — dark theme"
+      "title": "Default activity history — dark"
+    },
+    {
+      "file": "workouts-week.png",
+      "title": "Completed activities grouped by week"
+    },
+    {
+      "file": "workout-detail.png",
+      "title": "Completed cycling activity — metadata and archive"
+    },
+    {
+      "file": "workouts-identities.png",
+      "title": "Completed activities grouped by Garmin workout"
+    },
+    {
+      "file": "workout-delete-confirmation.png",
+      "title": "Strength deletion confirmation preserves source files"
+    },
+    {
+      "file": "workouts-filters.png",
+      "title": "Expanded date, activity type, cycle, phase and workout filters"
+    },
+    {
+      "file": "workouts-search.png",
+      "title": "Search combined with activity type and Garmin workout"
     },
     {
       "file": "workouts-czech.png",
-      "title": "Tréninky — týdenní historie"
+      "title": "Tréninky — řaditelná historie"
     },
     {
       "file": "strength-desktop.png",
-      "title": "Strength — recorded Cardio, two-row cards and individual set pills"
+      "title": "Strength — entire workout and recorded physiological response"
     },
     {
       "file": "strength-final-rest.png",
@@ -248,10 +228,6 @@
       "title": "Overview — today's completed Strength execution"
     },
     {
-      "file": "overview-completed-running.png",
-      "title": "Overview — today's completed run overrides expected Strength"
-    },
-    {
       "file": "overview-completed-multiple.png",
       "title": "Overview — multiple completed activities today"
     },
@@ -262,9 +238,33 @@
     {
       "file": "overview-light.png",
       "title": "Overview — explicit Light override on a dark system"
+    },
+    {
+      "file": "running-desktop.png",
+      "title": "Running detail · Entire workout selected"
+    },
+    {
+      "file": "running-interval.png",
+      "title": "Running detail · recorded interval"
+    },
+    {
+      "file": "running-autolap.png",
+      "title": "Running detail · final partial Garmin lap"
+    },
+    {
+      "file": "running-dynamics.png",
+      "title": "Running detail · vertical oscillation"
+    },
+    {
+      "file": "running-dark.png",
+      "title": "Running detail · Entire workout selected in dark mode"
+    },
+    {
+      "file": "running-mobile.png",
+      "title": "Running detail · Celý trénink in Czech touch layout"
     }
   ],
-  "run_id": 44396057482,
+  "run_id": 44817533468,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
