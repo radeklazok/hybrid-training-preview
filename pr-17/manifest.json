@@ -2,10 +2,10 @@
   "target": "pr-17",
   "branch": "codex/running-workout-detail",
   "pr": 17,
-  "sha": "0041ae099dfb79fe69e6baa411403f9289792b46",
-  "short_sha": "0041ae0",
+  "sha": "c0c0b6bbe436aee67e0d7565b877f7b6c890521d",
+  "short_sha": "c0c0b6b",
   "version": "pr-17",
-  "generated_at": "2026-11-20T20:40:22.627000+00:00",
+  "generated_at": "2026-11-20T21:03:02.207000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -264,7 +264,7 @@
       "title": "Running detail · Celý trénink in Czech touch layout"
     }
   ],
-  "run_id": 44812985198,
+  "run_id": 44816325678,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
