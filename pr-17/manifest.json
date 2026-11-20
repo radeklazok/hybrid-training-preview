@@ -2,10 +2,10 @@
   "target": "pr-17",
   "branch": "codex/running-workout-detail",
   "pr": 17,
-  "sha": "367e2d37ca65eb40c38a1b392951b54786632df5",
-  "short_sha": "367e2d3",
+  "sha": "0041ae099dfb79fe69e6baa411403f9289792b46",
+  "short_sha": "0041ae0",
   "version": "pr-17",
-  "generated_at": "2026-11-20T19:52:24.119000+00:00",
+  "generated_at": "2026-11-20T20:40:22.627000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -161,7 +161,7 @@
     },
     {
       "file": "strength-desktop.png",
-      "title": "Strength — recorded Cardio, two-row cards and individual set pills"
+      "title": "Strength — entire workout and recorded physiological response"
     },
     {
       "file": "strength-final-rest.png",
@@ -241,7 +241,7 @@
     },
     {
       "file": "running-desktop.png",
-      "title": "Running detail · entire recorded run"
+      "title": "Running detail · Entire workout selected"
     },
     {
       "file": "running-interval.png",
@@ -257,14 +257,14 @@
     },
     {
       "file": "running-dark.png",
-      "title": "Running detail · dark theme"
+      "title": "Running detail · Entire workout selected in dark mode"
     },
     {
       "file": "running-mobile.png",
-      "title": "Running detail · Czech touch layout"
+      "title": "Running detail · Celý trénink in Czech touch layout"
     }
   ],
-  "run_id": 44805671078,
+  "run_id": 44812985198,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
