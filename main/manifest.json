@@ -2,10 +2,10 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "5fd4001fedb1ba16edc044ffdde99e8ff9562408",
-  "short_sha": "5fd4001",
+  "sha": "c4552690e0bad19d585656862e0f7f2b1e4fac4e",
+  "short_sha": "c455269",
   "version": "main",
-  "generated_at": "2026-11-20T21:11:05.828000+00:00",
+  "generated_at": "2026-11-21T13:08:05.321000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -192,10 +192,6 @@
       "title": "Strength — recorded intervals without physiological samples"
     },
     {
-      "file": "strength-corrected.png",
-      "title": "Strength — saved corrections, effective volume and original physiological timing"
-    },
-    {
       "file": "overview-strength-collapsed.png",
       "title": "Overview — historical Strength match, collapsed"
     },
@@ -262,9 +258,13 @@
     {
       "file": "running-mobile.png",
       "title": "Running detail · Celý trénink in Czech touch layout"
+    },
+    {
+      "file": "administration-fit-files.png",
+      "title": "Administration — original FIT and ZIP files with linked workouts"
     }
   ],
-  "run_id": 44817533468,
+  "run_id": 44907044254,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
