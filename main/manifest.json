@@ -2,10 +2,10 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "97a0129b59a1bb3e59bfe685a3fb4c65e8f20642",
-  "short_sha": "97a0129",
+  "sha": "aad5e9a1f778320bb2d227ff96b8bd28aad89488",
+  "short_sha": "aad5e9a",
   "version": "main",
-  "generated_at": "2026-11-21T15:09:30.114000+00:00",
+  "generated_at": "2026-11-21T21:34:36.715000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -264,7 +264,7 @@
       "title": "Administration — original FIT and ZIP files with linked workouts"
     }
   ],
-  "run_id": 44917383821,
+  "run_id": 44951977046,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
