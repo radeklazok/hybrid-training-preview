@@ -2,10 +2,10 @@
   "target": "pr-18",
   "branch": "codex/workout-data-administration",
   "pr": 18,
-  "sha": "e871e600303e5b0ad8677b62ab8b916e46ca5574",
-  "short_sha": "e871e60",
+  "sha": "92ccbf1c54d2ca3371f13c827c7eda8d67925969",
+  "short_sha": "92ccbf1",
   "version": "pr-18",
-  "generated_at": "2026-11-21T08:11:54.310000+00:00",
+  "generated_at": "2026-11-21T12:47:26.211000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -261,10 +261,10 @@
     },
     {
       "file": "administration-fit-files.png",
-      "title": "Administration — original FIT sources and batch results"
+      "title": "Administration — original FIT and ZIP files with linked workouts"
     }
   ],
-  "run_id": 44883490193,
+  "run_id": 44905386949,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
