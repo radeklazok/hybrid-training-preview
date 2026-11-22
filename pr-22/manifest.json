@@ -2,10 +2,10 @@
   "target": "pr-22",
   "branch": "codex/performed-exercises",
   "pr": 22,
-  "sha": "651984cb1a36c4c6504f45da186bd435f2939733",
-  "short_sha": "651984c",
+  "sha": "8fe8d6943c233a6a1db99dd776e77dc5522800c9",
+  "short_sha": "8fe8d69",
   "version": "pr-22",
-  "generated_at": "2026-11-22T12:11:44.138000+00:00",
+  "generated_at": "2026-11-22T18:51:48.336000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -264,8 +264,8 @@
       "title": "Administration — original FIT and ZIP files with linked workouts"
     }
   ],
-  "run_id": 45020732393,
-  "run_attempt": 1,
+  "run_id": 45056802656,
+  "run_attempt": 2,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
   "viewport": {
