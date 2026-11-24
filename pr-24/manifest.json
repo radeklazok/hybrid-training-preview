@@ -2,10 +2,10 @@
   "target": "pr-24",
   "branch": "codex/persistent-strength-sets",
   "pr": 24,
-  "sha": "9b48ffd9eeee423ad3edf2ff91f59c047dc92209",
-  "short_sha": "9b48ffd",
+  "sha": "115b3ed382b7a6e6144719557a6aba86d50683cc",
+  "short_sha": "115b3ed",
   "version": "pr-24",
-  "generated_at": "2026-11-23T21:46:46.359000+00:00",
+  "generated_at": "2026-11-24T06:59:30.985000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -264,7 +264,7 @@
       "title": "Administration — original FIT and ZIP files with linked workouts"
     }
   ],
-  "run_id": 45272454270,
+  "run_id": 45344062771,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
