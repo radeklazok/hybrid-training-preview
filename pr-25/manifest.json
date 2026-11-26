@@ -2,10 +2,10 @@
   "target": "pr-25",
   "branch": "codex/analytics-comparison",
   "pr": 25,
-  "sha": "3962e9523e0444f64e1f451a9a09e5077bb1bf2c",
-  "short_sha": "3962e95",
+  "sha": "bf8cde69288605a2d63bf0bddc612050aceccb48",
+  "short_sha": "bf8cde6",
   "version": "pr-25",
-  "generated_at": "2026-11-26T18:50:01.026000+00:00",
+  "generated_at": "2026-11-26T19:14:44.168000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -264,7 +264,7 @@
       "title": "Administration — original FIT and ZIP files with linked workouts"
     }
   ],
-  "run_id": 45878285506,
+  "run_id": 45881588637,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
