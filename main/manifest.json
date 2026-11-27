@@ -2,10 +2,10 @@
   "target": "main",
   "branch": "main",
   "pr": null,
-  "sha": "61b30299c0230df524e34cb6abe1165edb1d67a5",
-  "short_sha": "61b3029",
+  "sha": "b997acc565c1cd8f5e7c8517cacc3510b611c4f6",
+  "short_sha": "b997acc",
   "version": "main",
-  "generated_at": "2026-11-24T20:24:04.341000+00:00",
+  "generated_at": "2026-11-27T19:52:30.069000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -38,10 +38,6 @@
     {
       "file": "today-twelve-months.png",
       "title": "Today from 2024 retains twelve months"
-    },
-    {
-      "file": "timeline-toolbar-dark.png",
-      "title": "Timeline toolbar — twelve months in dark mode"
     },
     {
       "file": "selected-period.png",
@@ -80,28 +76,8 @@
       "title": "Advanced operations belong to their table row"
     },
     {
-      "file": "type-color-preview.png",
-      "title": "Phase Type color — state-specific Before and After"
-    },
-    {
-      "file": "type-icon-preview.png",
-      "title": "Phase Type icon — state-specific Before and After"
-    },
-    {
-      "file": "type-name-preview.png",
-      "title": "Phase Type name — state-specific Before and After"
-    },
-    {
       "file": "type-conversion-preview.png",
       "title": "Type conversion — original and destination appearances"
-    },
-    {
-      "file": "sidebar-light.png",
-      "title": "Readable sidebar navigation — light mode"
-    },
-    {
-      "file": "sidebar-dark.png",
-      "title": "Readable sidebar navigation — dark mode"
     },
     {
       "file": "timeline-czech.png",
@@ -192,20 +168,8 @@
       "title": "Strength — recorded intervals without physiological samples"
     },
     {
-      "file": "overview-strength-collapsed.png",
-      "title": "Overview — historical Strength match, collapsed"
-    },
-    {
       "file": "overview-strength-expanded.png",
       "title": "Overview — actual results and individual set pills"
-    },
-    {
-      "file": "overview-narrow.png",
-      "title": "Přehled — zarovnané sekce a minulé výsledky při šířce 390 px"
-    },
-    {
-      "file": "overview-dark.png",
-      "title": "Overview — explicit Dark override on a light system"
     },
     {
       "file": "overview-no-workout.png",
@@ -262,9 +226,45 @@
     {
       "file": "administration-fit-files.png",
       "title": "Administration — original FIT and ZIP files with linked workouts"
+    },
+    {
+      "file": "analytics-overview-light.png",
+      "title": "Analytics — comparison icons on Overview"
+    },
+    {
+      "file": "analytics-reference-open.png",
+      "title": "Analytics — contextual reference selection"
+    },
+    {
+      "file": "analytics-collapsed-light.png",
+      "title": "Analytics — collapsed exercises in light mode"
+    },
+    {
+      "file": "analytics-expanded-light.png",
+      "title": "Analytics — set and physiological comparison in light mode"
+    },
+    {
+      "file": "analytics-collapsed-dark.png",
+      "title": "Analytics — collapsed exercises in dark mode"
+    },
+    {
+      "file": "analytics-mobile-czech.png",
+      "title": "Analytics — expanded comparison on Czech mobile"
+    },
+    {
+      "file": "analytics-non-standardized.png",
+      "title": "Analytics — recorded exercise and physiological comparison"
+    },
+    {
+      "file": "analytics-overview-historical.png",
+      "title": "Overview — comparison inside a historical result"
+    },
+    {
+      "file": "analytics-overview-completed-dark.png",
+      "title": "Overview — integrated comparison on a completed workout in dark mode"
     }
   ],
-  "run_id": 45479665484,
+  "run_id": 46059200736,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
