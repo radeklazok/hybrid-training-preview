@@ -2,10 +2,10 @@
   "target": "pr-26",
   "branch": "codex/running-comparison",
   "pr": 26,
-  "sha": "8c42402a328538ed116b1e8cfd5efd828f258ba9",
-  "short_sha": "8c42402",
+  "sha": "032c971122b7de89a2e19b91a3b06276a3da39e5",
+  "short_sha": "032c971",
   "version": "pr-26",
-  "generated_at": "2026-11-28T11:14:21.877000+00:00",
+  "generated_at": "2026-11-28T12:22:58.617000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -201,7 +201,7 @@
     },
     {
       "file": "running-desktop.png",
-      "title": "Running detail · Default Whole workout and strength-style columns"
+      "title": "Running detail · Default Whole workout and aligned panels"
     },
     {
       "file": "running-interval.png",
@@ -264,8 +264,8 @@
       "title": "Running comparison · Unified working scope and heart rate"
     }
   ],
-  "run_id": 46138558284,
-  "run_attempt": 1,
+  "run_id": 46143407426,
+  "run_attempt": 2,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
   "viewport": {
