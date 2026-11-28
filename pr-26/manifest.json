@@ -2,10 +2,10 @@
   "target": "pr-26",
   "branch": "codex/running-comparison",
   "pr": 26,
-  "sha": "08526e61f8573c2e81bbcd2d6067b59be58e22a8",
-  "short_sha": "08526e6",
+  "sha": "5fb319b7f3b70df97087569ae895daeff255b4f4",
+  "short_sha": "5fb319b",
   "version": "pr-26",
-  "generated_at": "2026-11-28T09:39:33.676000+00:00",
+  "generated_at": "2026-11-28T10:41:13.675000+00:00",
   "screenshots": [
     {
       "file": "timeline-periods.png",
@@ -201,27 +201,27 @@
     },
     {
       "file": "running-desktop.png",
-      "title": "Running detail · Working performance and whole-workout heart rate"
+      "title": "Running detail · Unified working scope and heart rate"
     },
     {
       "file": "running-interval.png",
-      "title": "Running detail · recorded interval"
+      "title": "Running detail · Active interval"
     },
     {
       "file": "running-autolap.png",
-      "title": "Running detail · final partial Garmin lap"
+      "title": "Running detail · Final partial recorded lap"
     },
     {
       "file": "running-dynamics.png",
-      "title": "Running detail · vertical oscillation"
+      "title": "Running detail · Active interval vertical oscillation"
     },
     {
       "file": "running-dark.png",
-      "title": "Running detail · Entire workout selected in dark mode"
+      "title": "Running detail · Whole workout in dark mode"
     },
     {
       "file": "running-mobile.png",
-      "title": "Running detail · Celý trénink in Czech touch layout"
+      "title": "Running detail · Working intervals in Czech touch layout"
     },
     {
       "file": "administration-fit-files.png",
@@ -261,10 +261,10 @@
     },
     {
       "file": "running-comparison-heart-rate.png",
-      "title": "Running comparison · Whole-workout heart rate"
+      "title": "Running comparison · Unified working scope and heart rate"
     }
   ],
-  "run_id": 46131156852,
+  "run_id": 46135999138,
   "run_attempt": 1,
   "demo_time": "2026-11-14T11:00:00Z",
   "timezone": "Europe/Prague",
